@@ -1,0 +1,50 @@
+Variable Declaration (1–8)
+
+1. Declare an integer variable named `age` and assign your age to it.
+2. Create a float variable called `height` and assign a value of 5.9 to it.
+3. Assign the value `"Python"` to a variable named `language`.
+4. Create a boolean variable `is_active` and set it to `True`.
+5. Declare two variables `x = 10` and `y = 20`, then print their sum.
+6. What is the output of this code?
+   x = 5
+   x = "Hello"
+   print(x)
+7. Create a variable named `message`, assign a value, then change its value to something else and print it.
+8. Assign your name and age to variables `name` and `age`. Then print them.
+
+String Concatenation (9–16)
+
+9. Concatenate `"Hello"` and `"World"` and store the result in a variable called `greeting`.
+10. Combine a first name and last name stored in two variables and print the full name.
+11. Use the `+` operator to join `"Age: "` and the string version of an integer `25`.
+12. What is the output of this?
+    a = "Hello"
+    b = 123
+    print(a + str(b))
+13. Use f-strings to create a message like: `"Hi, my name is Alice and I am 30 years old."`
+14. Concatenate three strings with spaces in between: `"Python"`, `"is"`, `"fun"`.
+15. Fix the error in this code:
+    name = "Bob"
+    age = 25
+    print("My name is " + name + " and I am " + age + " years old.")
+16. Create a variable `sentence` using string concatenation to say `"The price is 100 dollars"` where 100 is stored in a separate variable.
+
+Type Conversion (17–23)
+
+17. Convert the string `"123"` to an integer and store it in a variable.
+18. Convert the float `3.14` to a string and print its type.
+19. Ask the user to input a number, then convert it to an integer and multiply it by 2.
+20. Convert the integer `10` to a float, then print the result.
+21. What is the result of `int("10.5")`? Explain why it gives an error or not.
+22. Convert the string `"True"` to a boolean using `bool()` and print the result.
+23. Write a program that asks for two numbers as input strings and prints their sum (after converting them to integers).
+
+If-Else Conditionals (24–30)
+
+24. Write a program that checks if a number is positive or negative.
+25. Check if a number is even or odd using an if-else statement.
+26. Ask the user to enter their age. If age is 18 or more, print `"You are an adult."`, else print `"You are a minor."`
+27. Write a program to compare two numbers and print which one is larger.
+28. Write an if-else to check if a variable `grade` is greater than or equal to 90. If so, print `"A"`, otherwise `"Not A"`.
+29. Ask for a password input. If it matches `"admin123"`, print `"Access granted"`, else `"Access denied"`.
+30. Write a program that checks if a number is divisible by both 3 and 5.
